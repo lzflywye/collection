@@ -1,0 +1,5 @@
+Types: deb
+URIs: http://apt.llvm.org/noble/
+Suites: llvm-toolchain-noble-18
+Components: main
+Signed-By: /etc/apt/keyrings/apt.llvm.org.asc
